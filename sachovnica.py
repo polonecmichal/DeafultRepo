@@ -1,3 +1,4 @@
+
 from PIL import Image
 
 img = Image.new('RGB', (200, 300), color = 'white')
